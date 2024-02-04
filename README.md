@@ -14,9 +14,12 @@ Data and code relative to the Basili et al. 2024 manuscript about the shifts in 
 The repository contains the following files:
 
 - README.md (this readme file)
-- Basili_et_al_16SrRNA_analysis.r (the r code to reproduce the figures)
-- envdataset.csv (the environmental dataset)
-- a series of .csv files to replicate the figures and analyses reported in the paper
+- Basili_et_al_CAVA_final.ipynb the anlalysis file containign all the code to reproduce the analysis and figures in the manuscript
+- ASV_tab_merg.csv containing the AVS table
+- taxa_merg.csv the taxonomy assignments for the ASV
+- SampleData_merg.csv containing the environmental data and metadata used to contruct the phyloseq object
+- coordinate.csv the non redundant  environmental data and metadata
+- prok_data_raw.rds the R file containing with the initail phyloseq object
 
 Please cite as:
 
