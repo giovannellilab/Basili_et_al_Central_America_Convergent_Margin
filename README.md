@@ -23,4 +23,5 @@ The repository contains the following files:
 
 Please cite as:
 
-Marco Basili, Timothy J. Rogers, Mayuko Nakagawa, Mustafa Yücel, J. Maarten de Moor, Peter H. Barry, Matthew O. Schrenk, Gerdhard L. Jessen, Sabin Zahirovic, David V. Bekaert, Carlos J. Ramirez, Deborah Bastoni, Angelina Cordone, Karen G. Lloyd1, Donato Giovannelli. Subsurface microbial community structure shifts along the geological features of the Central American Volcanic Arc. _EarthArXiv_
+Marco Basili, Timothy J. Rogers, Mayuko Nakagawa, Mustafa Yücel, J. Maarten de Moor, Peter H. Barry, Matthew O. Schrenk, Gerdhard L. Jessen, Sabin Zahirovic, David V. Bekaert, Carlos J. Ramirez, Deborah Bastoni, Angelina Cordone, Karen G. Lloyd, Donato Giovannelli. 2024. Subsurface Microbial Community Structure Shifts along the Geological Features of the Central American Volcanic Arc. PLOS ONE 19 (11): e0308756. https://doi.org/10.1371/journal.pone.0308756.
+
